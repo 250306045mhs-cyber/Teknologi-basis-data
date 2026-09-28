@@ -1,0 +1,1 @@
+# Teknologi-basis-data
