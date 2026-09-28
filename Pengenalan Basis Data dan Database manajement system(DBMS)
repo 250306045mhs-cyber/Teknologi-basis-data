@@ -1,0 +1,10 @@
+Create database db_250306045; Fungsi CREATE untuk menambah nim pertama
+Create database db_250306009; menambah nim kedua
+
+SHOW databases; fungsi Show untuk melihat seluruh file
+
+USE db_250306045;  fungsi use untuk melihat salah satu nim
+
+drop database db_250306045; fungsi drop untuk menghapus nim 
+
+Show databases; untuk melihat nim yg sudah di drop
